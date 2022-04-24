@@ -12,7 +12,7 @@ This is my example of the "Hello World" in Python, as well as adding a video to 
 
 In this video, I used Visual Studio and the Python extension for Python 3.10
 
-I used Python 3.9.12 and Python 3.10 for this Project, and all of my Python Projects Up-To-Date
+I used Python 3.9.12 and Python 3.10 for this Project, and all of my Python Projects in this folder Up-To-Date
 
 # Useful Websites
 
