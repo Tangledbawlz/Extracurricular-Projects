@@ -1,24 +1,21 @@
-# Extracurricular-Projects
-Projects I have been working on throughout my free life
+# Hello World
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Projects I have been working on in my School Life, and Personal life
 
-{Provide a description of your software}
+This is the first project each person should participate in when programming in a new language. 
 
-{Describe your purpose for creating this software.}
+This is my example of the "Hello World" in Python, as well as adding a video to demonstrate my understanding of this project!
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EMN48dgFtFA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+In this video, I used Visual Studio and the Python extension for Python 3.10
 
-{Describe the programming language that you used}
+I used Python 3.9.12 and Python 3.10 for this Project, and all of my Python Projects Up-To-Date
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+For this Project, I had a few sites that were useful to me when it came to Pip and Git Commands
+* [Stack-Overflow](https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip)
+* [Installing Python Using Pip](https://monovm.com/blog/how-to-upgrade-pip-package/)
