@@ -7,7 +7,7 @@ These are many different projects I have been putting my interest into since my 
 
 # Development Environment
 
-In these videos, I used Visual Studio and the Python extension for Python 3.10
+In these videos, I use Visual Studio, with the Python extension for Python 3.9, Erlang, etc.
 
 # Useful Websites
 
